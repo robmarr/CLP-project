@@ -24,6 +24,7 @@ public class Test1 {
     public static void main(String[] args) {
         
         System.out.println("Hello world! Jestes gupi!\n");
+        System.out.println("Ty też jestes gupi, dodane w netbeans!\n");
         Window okno = new Window();
         okno.setVisible(true);
         

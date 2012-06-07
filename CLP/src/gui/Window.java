@@ -129,6 +129,7 @@ public class Window extends javax.swing.JFrame {
         for (int i=0; i<numberOfDistinctRolls; i++) {
             jPanel4.add(arrayOfCuttingStockInputs[i] = new CuttingStockInput());
         }
+        jPanel1.repaint();
         
         
     }//GEN-LAST:event_jButton1ActionPerformed
